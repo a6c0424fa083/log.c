@@ -11,6 +11,7 @@
  * - Added extern-C
  * - Added blank versions of log functions if logging is not needed
  * - Reformatted with clangformat
+ * - Added/changed LOGGING/COLOR defines
  */
 
 #ifndef LOG_H
